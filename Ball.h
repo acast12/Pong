@@ -28,8 +28,6 @@ private:
 	float xDirection = 1.0f;
 	float yDirection = 0.0f;
 
-	sf::Clock _clock;
-
 	int maxAngle = 50;
 };
 

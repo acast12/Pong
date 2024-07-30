@@ -26,7 +26,6 @@ private:
 	sf::Vector2f position;
 	float paddleSpeed = 450.0f;
 
-	sf::Clock _clock;
 	bool isMovingUp;
 	bool isMovingDown;
 };
